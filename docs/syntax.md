@@ -6,7 +6,7 @@ category: User Guide
 
 This document explains the syntax to create tasks with Multiple Subtasks for Jira.
 
-* Table of Contents
+* Table of Contents.
 {:toc}
 
 ## Simple Syntax
